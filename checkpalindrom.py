@@ -7,6 +7,6 @@ for i in range(len(str(a))):
     c = c * 10 + b
 print(aa[::-1])
 if aa[::-1]==str(c):
-    print("palindrome")
+    print("palindrome done")
 else:       
     print(" not palindrome")
